@@ -1,0 +1,23 @@
+
+1. Consentement éclairé : Avant d'utiliser notre application, nous vous demanderons votre consentement éclairé pour collecter et utiliser vos informations personnelles conformément à notre politique de confidentialité. L'utilisation continue de l'application sera considérée comme votre acceptation de ces règles.
+
+2. Collecte limitée : Nous collectons uniquement les informations nécessaires pour vous permettre d'utiliser pleinement les fonctionnalités de l'application, telles que votre nom, adresse e-mail et les informations nécessaires pour vous fournir le service demandé.
+
+3. Accès aux fonctionnalités : Nous ne demanderons pas d'autorisations pour accéder à des données ou des fonctionnalités qui ne sont pas directement liées aux services fournis par l'application.
+
+4. Sécurité : Vos informations seront protégées par des mesures de sécurité appropriées pour prévenir tout accès non autorisé, divulgation ou altération de vos données.
+
+5. Finalité : Vos informations seront utilisées uniquement aux fins de fournir les services demandés par l'application, d'améliorer notre service, et de vous informer sur les mises à jour ou les nouvelles fonctionnalités de l'application.
+
+6. Durée de conservation : Vos informations seront conservées aussi longtemps que nécessaire pour fournir les services de l'application et se conformer aux obligations légales.
+
+7. Transparence : Notre politique de confidentialité détaillera clairement comment vos informations sont collectées, utilisées et partagées. Vous pourrez y accéder directement depuis l'application.
+
+8. Droits des utilisateurs : Vous aurez le droit d'accéder à vos informations personnelles, de les corriger, de les supprimer et de retirer votre consentement à tout moment. Vous pourrez exercer ces droits en utilisant les options fournies dans l'application ou en nous contactant via les coordonnées fournies dans la politique de confidentialité.
+
+9. Partage d'informations : Vos informations ne seront partagées avec des tiers que dans le cadre de la fourniture des services de l'application (par exemple, avec des prestataires de services de stockage ou d'analyse) ou si requis par la loi.
+
+10. Communication marketing : Nous ne vous enverrons des communications marketing que si vous nous avez donné votre consentement. Vous aurez la possibilité de vous désabonner de ces communications via l'application.
+
+11. Protection des mineurs : Notre application n'est pas destinée aux personnes de moins de 13 ans. Nous ne collectons pas sciemment d'informations auprès des mineurs, et si nous apprenons que nous avons collecté des données personnelles d'un mineur, nous les supprimerons immédiatement.
+
